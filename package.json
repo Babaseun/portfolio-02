@@ -1,0 +1,23 @@
+{
+ "name": "portfolio-03",
+ "version": "1.0.0",
+ "description": "Second Portfolio",
+ "main": "index.js",
+ "scripts": {
+  "deploy": "gh-pages -d build"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/Babaseun/portfolio-02.git"
+ },
+ "keywords": [],
+ "author": "Adeyemi Onibokun",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/Babaseun/portfolio-02/issues"
+ },
+ "homepage": "https://github.com/Babaseun/portfolio-02#readme",
+ "dependencies": {
+  "gh-pages": "^2.2.0"
+ }
+}
